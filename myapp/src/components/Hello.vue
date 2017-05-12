@@ -6,6 +6,17 @@
     <h3 v-bind:title="newData">Binding example</h3>
     <h3>output method</h3>
     <div>{{ strVal() }}</div>
+    <ul>
+      <li v-for="(item,index) in items">
+        {{index}} - {{item.text}}
+      </li>
+    </ul>
+    <h2>object v-for</h2>
+    <ul>
+      <li v-for="(value,key,index) in objData">
+       {{index}} - {{key}} - {{value}}
+      </li>
+    </ul>
     </div>
 </template>
 
@@ -16,7 +27,17 @@ export default {
     return {
       msg: 'Welcome to Your Vue.js App',
       someData: 'some text',
-      newData: "Here is our data"
+      newData: "Here is our data",
+      items:[
+        {text:"First"},
+        {text:"Second"},
+        {text:"Third"}
+      ],
+      objData:{
+        firstName:"David",
+        lastName:"John",
+        email:"test@tutorailsxl.com"
+      }
       }
   },
   methods: {
