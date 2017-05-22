@@ -14,7 +14,7 @@
     <h2>object v-for</h2>
     <ul>
       <li v-for="(value,key,index) in objData">
-       {{index}} - {{key}} - {{value}}
+       {{index}} - {{key}} - {{value | capitalize }}
       </li>
     </ul>
     </div>
@@ -48,6 +48,13 @@ export default {
       this.newData = "here is an new value";
     },
     strVal:function(){ return "output from method";}
+  },
+  filters: {
+    capitalize: function (value) {
+      if (!value) return ''
+      value = value.toString()
+      return value.toUpperCase() 
+    }
   }
 }
 </script>
