@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProjectMessage>
+<IsEditor>1</IsEditor>
+<SettingMessage>
+    <Screen enabled="1" selectIndex="0">
+        <ScreenCapture>
+            <CaptureType>0</CaptureType>
+            <FrameRate>60</FrameRate>
+            <CropRect>0 0 1366 768</CropRect>
+        </ScreenCapture>
+        <Game>
+            <GameName></GameName>
+            <FrameRate>60</FrameRate>
+        </Game>
+    </Screen>
+    <Camera enabled="0">
+        <CameraName>HP HD Camera</CameraName>
+        <Resolution>
+            <ResolutionWidth>640</ResolutionWidth>
+            <ResolutionHeight>480</ResolutionHeight>
+        </Resolution>
+        <FrameRate>30</FrameRate>
+    </Camera>
+    <Audio enabled="1">
+        <Microphone>Microphone (Samson Q1U               )</Microphone>
+        <ComputerAudio>0</ComputerAudio>
+    </Audio>
+</SettingMessage>
+
+<PreviewMessage>
+    <Item>
+        <Path>E:/Wondershare Src/Rec_20170731 22.35.10.mp4</Path>
+    </Item>
+    <Item>
+        <Path>E:/Wondershare Src/Rec_20170731 22.35.46.mp4</Path>
+    </Item>
+</PreviewMessage>
+
+<MatterMessage>
+ <MediaInfo Path="E:/Wondershare Src/Rec_20170731 22.36.41.mp4" Title="Rec_20170731 22.36.41"></MediaInfo>
+ <MediaInfo Path="E:/YouTube/VueJS Tutorial/Thumbnails/6-Computed Properties.png" Title="6-Computed Properties"></MediaInfo>
+ <MediaInfo Path="E:/YouTube/Thank you for watching.png" Title="Thank you for watching"></MediaInfo>
+</MatterMessage>
+
+<TimelineMessage>
+<TimeLine>
+<Properties Count="41">
+<Property key="Iterator.Current" type="int" value="2"/>
+<Property key="Level" type="int" value="0"/>
+<Property key="Motion.Enable" type="int" value="0"/>
+<Property key="Motion.RangeTime" type="NLERange" value="Start:0, End:3500"/>
+<Property key="Motion.URI" type="std::wstring" value=""/>
+<Property key="Name" type="std::wstring" value="TopTimeline"/>
+<Property key="PProcess.Volume" type="int" value="0"/>
+<Property key="REFCLSID" type="GUID" value="{CD61E0E4-0074-3FD5-4915-951546E34A03}"/>
+<Property key="REFIID" type="GUID" value="{29FDB4EE-DE39-151E-ED38-06C8CFB45CDA}"/>
+<Property key="Render.AnchorPoint" type="NLEPointF" value="x:0.000000, y:0.000000"/>
+<Property key="Render.Backplay.BOOL" type="int" value="0"/>
+<Property key="Render.BitsPerSample" type="int" value="16"/>
+<Property key="Render.Channels" type="int" value="2"/>
+<Property key="Render.Concurrency.Prepare" type="int" value="1"/>
+<Property key="Render.EnableAudio" type="int" value="1"/>
+<Property key="Render.EnableVideo" type="int" value="1"/>
+<Property key="Render.Framerate" type="NLERational" value="[25000000, 1000000]: 25.0000000 "/>
+<Property key="Render.Mode" type="int" value="0"/>
+<Property key="Render.Position" type="int" value="0"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:0, End:15483"/>
+<Property key="Render.Region" type="NLERectF" value="left:0.000000, top:0.000000, width:1.000000, height:1.000000"/>
+<Property key="Render.ResizeScaleF" type="NLESizeF" value="Width:1.000000, cy:1.000000"/>
+<Property key="Render.Rotation.InDegree" type="double" value="0.000000"/>
+<Property key="Render.SampleRate" type="int" value="44100"/>
+<Property key="Render.Scale" type="NLERational" value="[1, 1]: 1.0000000 "/>
+<Property key="Render.Size" type="NLESize" value="Width:524, cy:295"/>
+<Property key="Render.TotalFrameCount" type="int" value="15484"/>
+<Property key="Render.VideoStabilizer.BOOL" type="int" value="0"/>
+<Property key="Source.BitsPerSample" type="int" value="16"/>
+<Property key="Source.Channles" type="int" value="2"/>
+<Property key="Source.Framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="Source.HasAudioStream" type="int" value="1"/>
+<Property key="Source.HasVideoStream" type="int" value="1"/>
+<Property key="Source.RangeFrameNumber" type="NLERange" value="Start:0, End:0"/>
+<Property key="Source.Region" type="NLERectF" value="left:0.000000, top:0.000000, width:1.000000, height:1.000000"/>
+<Property key="Source.SampleRate" type="int" value="44100"/>
+<Property key="Source.Size" type="NLESize" value="Width:960, cy:540"/>
+<Property key="Source.TotalFrameCount" type="int" value="2147483641"/>
+<Property key="Source_FileType" type="int" value="0"/>
+<Property key="Transition.Enable" type="int" value="0"/>
+<Property key="Transition.RangeTime" type="NLERange" value="Start:0, End:3000"/>
+</Properties>
+<TimeLine>
+<Properties Count="50">
+<Property key="Absolute.FilePath" type="std::wstring" value="E:/YouTube/VueJS Tutorial/Thumbnails/6-Computed Properties.png"/>
+<Property key="Key_AncestralGuid" type="std::wstring" value="{61da5e3d-d4e6-4f1f-8a59-6c4560fec2f3}"/>
+<Property key="Key_DisplayName" type="std::wstring" value="6-Computed Properties"/>
+<Property key="Key_TimelineType" type="int" value="5"/>
+<Property key="Level" type="int" value="0"/>
+<Property key="Motion.Enable" type="int" value="0"/>
+<Property key="Motion.RangeTime" type="NLERange" value="Start:0, End:3500"/>
+<Property key="Motion.URI" type="std::wstring" value=""/>
+<Property key="Name" type="std::wstring" value="MediaTimeline"/>
+<Property key="REFCLSID" type="GUID" value="{9B42D098-1E44-6B5F-C3DA-23CB57969A0B}"/>
+<Property key="REFIID" type="GUID" value="{29FDB4EE-DE39-151E-ED38-06C8CFB45CDA}"/>
+<Property key="Render.AnchorPoint" type="NLEPointF" value="x:0.500000, y:0.500000"/>
+<Property key="Render.Backplay.BOOL" type="int" value="0"/>
+<Property key="Render.BitsPerSample" type="int" value="16"/>
+<Property key="Render.Channels" type="int" value="2"/>
+<Property key="Render.Concurrency.Prepare" type="int" value="1"/>
+<Property key="Render.EnableAudio" type="int" value="0"/>
+<Property key="Render.EnableVideo" type="int" value="1"/>
+<Property key="Render.Framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="Render.Mode" type="int" value="2"/>
+<Property key="Render.Position" type="int" value="0"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:0, End:124"/>
+<Property key="Render.RawEnabled" type="int" value="0"/>
+<Property key="Render.Region" type="NLERectF" value="left:0.000000, top:0.000000, width:1.000000, height:1.000000"/>
+<Property key="Render.ResizeScaleF" type="NLESizeF" value="Width:1.000000, cy:1.000000"/>
+<Property key="Render.Rotation.InDegree" type="double" value="0.000000"/>
+<Property key="Render.SampleRate" type="int" value="44100"/>
+<Property key="Render.Scale" type="NLERational" value="[1, 1]: 1.0000000 "/>
+<Property key="Render.Size" type="NLESize" value="Width:524, cy:295"/>
+<Property key="Render.TotalFrameCount" type="int" value="250000"/>
+<Property key="Render.VideoStabilizer.BOOL" type="int" value="0"/>
+<Property key="Source.BitsPerSample" type="CNLEValue" value="t:int, v:16"/>
+<Property key="Source.Channles" type="CNLEValue" value="t:int, v:2"/>
+<Property key="Source.Framerate" type="CNLEValue" value="t:NLERational, v:[25, 1]: 25.0000000 "/>
+<Property key="Source.HasAudioStream" type="CNLEValue" value="t:int, v:0"/>
+<Property key="Source.HasVideoStream" type="CNLEValue" value="t:int, v:1"/>
+<Property key="Source.RangeFrameNumber" type="NLERange" value="Start:0, End:124"/>
+<Property key="Source.Region" type="NLERectF" value="left:0.000000, top:0.000000, width:1.000000, height:1.000000"/>
+<Property key="Source.SampleRate" type="CNLEValue" value="t:int, v:44100"/>
+<Property key="Source.Size" type="CNLEValue" value="t:NLESize, v:Width:1280, cy:720"/>
+<Property key="Source.TotalFrameCount" type="CNLEValue" value="t:int, v:250000"/>
+<Property key="SourceTimeline_Properties" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:000001599E69D840">
+<Properties Count="54">
+<Property key="Absolute.FilePath" type="std::wstring" value="E:/YouTube/VueJS Tutorial/Thumbnails/6-Computed Properties.png"/>
+<Property key="Level" type="int" value="0"/>
+<Property key="Motion.Enable" type="int" value="0"/>
+<Property key="Motion.RangeTime" type="NLERange" value="Start:0, End:3500"/>
+<Property key="Motion.URI" type="std::wstring" value=""/>
+<Property key="REFCLSID" type="GUID" value="{8AFC8D9F-9E32-087D-64C9-5271630D6E83}"/>
+<Property key="REFIID" type="GUID" value="{29FDB4EE-DE39-151E-ED38-06C8CFB45CDA}"/>
+<Property key="Render.AnchorPoint" type="NLEPointF" value="x:0.000000, y:0.000000"/>
+<Property key="Render.Backplay.BOOL" type="int" value="0"/>
+<Property key="Render.BitsPerSample" type="int" value="16"/>
+<Property key="Render.Channels" type="int" value="2"/>
+<Property key="Render.Concurrency.Prepare" type="int" value="1"/>
+<Property key="Render.EnableAudio" type="int" value="1"/>
+<Property key="Render.EnableVideo" type="int" value="1"/>
+<Property key="Render.Framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="Render.Mode" type="int" value="0"/>
+<Property key="Render.Position" type="int" value="0"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:0, End:249999"/>
+<Property key="Render.Region" type="NLERectF" value="left:0.000000, top:0.000000, width:1.000000, height:1.000000"/>
+<Property key="Render.ResizeScaleF" type="NLESizeF" value="Width:1.000000, cy:1.000000"/>
+<Property key="Render.Rotation.InDegree" type="double" value="0.000000"/>
+<Property key="Render.SampleRate" type="int" value="44100"/>
+<Property key="Render.Scale" type="NLERational" value="[1, 1]: 1.0000000 "/>
+<Property key="Render.Size" type="NLESize" value="Width:1280, cy:720"/>
+<Property key="Render.TotalFrameCount" type="int" value="250000"/>
+<Property key="Render.VideoStabilizer.BOOL" type="int" value="0"/>
+<Property key="Source.BitsPerSample" type="int" value="16"/>
+<Property key="Source.Channles" type="int" value="2"/>
+<Property key="Source.Framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="Source.HasAudioStream" type="int" value="0"/>
+<Property key="Source.HasVideoStream" type="int" value="1"/>
+<Property key="Source.RangeFrameNumber" type="NLERange" value="Start:0, End:249999"/>
+<Property key="Source.Region" type="NLERectF" value="left:0.000000, top:0.000000, width:1.000000, height:1.000000"/>
+<Property key="Source.SampleRate" type="int" value="44100"/>
+<Property key="Source.Size" type="NLESize" value="Width:1280, cy:720"/>
+<Property key="Source.TotalFrameCount" type="int" value="250000"/>
+<Property key="Source_FileType" type="int" value="3"/>
+<Property key="Transition.Enable" type="int" value="0"/>
+<Property key="Transition.RangeTime" type="NLERange" value="Start:0, End:3000"/>
+<Property key="kAudio_Bitrate" type="int" value="0"/>
+<Property key="kAudio_Description" type="std::wstring" value="unknown codec, no usable"/>
+<Property key="kAudio_FourCC" type="int" value="0"/>
+<Property key="kAudio_ID" type="int" value="0"/>
+<Property key="kAudio_Name" type="std::wstring" value="unknown codec"/>
+<Property key="kAudio_State" type="int" value="0"/>
+<Property key="kCodec_FourCC" type="int" value="1229799751"/>
+<Property key="kMouse_Opacity" type="double" value="1.000000"/>
+<Property key="kMouse_Scale" type="double" value="1.000000"/>
+<Property key="kVideo_Bitrate" type="int" value="0"/>
+<Property key="kVideo_Description" type="std::wstring" value="description"/>
+<Property key="kVideo_FourCC" type="int" value="0"/>
+<Property key="kVideo_ID" type="int" value="1"/>
+<Property key="kVideo_Name" type="std::wstring" value="image"/>
+<Property key="kVideo_State" type="int" value="0"/>
+</Properties>
+</Property>
+<Property key="Source_FileType" type="CNLEValue" value="t:int, v:3"/>
+<Property key="Transition.Enable" type="int" value="0"/>
+<Property key="Transition.RangeTime" type="NLERange" value="Start:0, End:3000"/>
+<Property key="kAudio_Bitrate" type="CNLEValue" value="t:int, v:0"/>
+<Property key="kAudio_FourCC" type="CNLEValue" value="t:int, v:0"/>
+<Property key="kCodec_FourCC" type="CNLEValue" value="t:int, v:1229799751"/>
+<Property key="kVideo_Bitrate" type="CNLEValue" value="t:int, v:0"/>
+<Property key="kVideo_FourCC" type="CNLEValue" value="t:int, v:0"/>
+</Properties>
+</TimeLine>
+<TimeLine>
+<Properties Count="54">
+<Property key="Absolute.FilePath" type="std::wstring" value="E:/Wondershare Src/Rec_20170731 22.36.41.mp4"/>
+<Property key="Key_AncestralGuid" type="std::wstring" value="{2f4ebe52-7b9e-446d-b848-4912ed5ccc99}"/>
+<Property key="Key_DisplayName" type="std::wstring" value="Rec_20170731 22.36.41"/>
+<Property key="Key_RecordAncestralGuid" type="std::wstring" value="{36264f71-1523-499a-bcf3-d2b5acdaa9c9}"/>
+<Property key="Key_TimelineType" type="int" value="2"/>
+<Property key="Level" type="int" value="0"/>
+<Property key="Motion.Enable" type="int" value="0"/>
+<Property key="Motion.RangeTime" type="NLERange" value="Start:0, End:3500"/>
+<Property key="Motion.URI" type="std::wstring" value=""/>
+<Property key="REFCLSID" type="GUID" value="{9B42D098-1E44-6B5F-C3DA-23CB57969A0B}"/>
+<Property key="REFIID" type="GUID" value="{29FDB4EE-DE39-151E-ED38-06C8CFB45CDA}"/>
+<Property key="Render.AnchorPoint" type="NLEPointF" value="x:0.500000, y:0.500000"/>
+<Property key="Render.Backplay.BOOL" type="int" value="0"/>
+<Property key="Render.BitsPerSample" type="int" value="16"/>
+<Property key="Render.Channels" type="int" value="2"/>
+<Property key="Render.Concurrency.Prepare" type="int" value="1"/>
+<Property key="Render.EnableAudio" type="int" value="0"/>
+<Property key="Render.EnableVideo" type="int" value="1"/>
+<Property key="Render.Framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="Render.Mode" type="int" value="2"/>
+<Property key="Render.Position" type="int" value="125"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:0, End:15229"/>
+<Property key="Render.RawEnabled" type="int" value="0"/>
+<Property key="Render.Region" type="NLERectF" value="left:0.000000, top:0.000244, width:1.000000, height:0.999512"/>
+<Property key="Render.ResizeScaleF" type="NLESizeF" value="Width:1.000000, cy:0.999512"/>
+<Property key="Render.Rotation.InDegree" type="double" value="0.000000"/>
+<Property key="Render.SampleRate" type="int" value="44100"/>
+<Property key="Render.Scale" type="NLERational" value="[1, 1]: 1.0000000 "/>
+<Property key="Render.Size" type="NLESize" value="Width:524, cy:295"/>
+<Property key="Render.TotalFrameCount" type="int" value="15230"/>
+<Property key="Render.VideoStabilizer.BOOL" type="int" value="0"/>
+<Property key="Source.BitsPerSample" type="CNLEValue" value="t:int, v:16"/>
+<Property key="Source.Channles" type="CNLEValue" value="t:int, v:2"/>
+<Property key="Source.Framerate" type="CNLEValue" value="t:NLERational, v:[937518, 15625]: 60.0011520 "/>
+<Property key="Source.HasAudioStream" type="CNLEValue" value="t:int, v:0"/>
+<Property key="Source.HasVideoStream" type="CNLEValue" value="t:int, v:1"/>
+<Property key="Source.RangeFrameNumber" type="CNLEValue" value="t:NLERange, v:Start:0, End:36551"/>
+<Property key="Source.Region" type="NLERectF" value="left:0.000000, top:0.000000, width:1.000000, height:1.000000"/>
+<Property key="Source.SampleRate" type="CNLEValue" value="t:int, v:44100"/>
+<Property key="Source.Size" type="CNLEValue" value="t:NLESize, v:Width:1366, cy:768"/>
+<Property key="Source.TotalFrameCount" type="CNLEValue" value="t:int, v:36552"/>
+<Property key="SourceRender_CurrentAudioStreamIndex" type="int" value="-1"/>
+<Property key="SourceRender_CurrentVideoStreamIndex" type="int" value="0"/>
+<Property key="SourceTimeline_Properties" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:000001599E69D530">
+<Properties Count="58">
+<Property key="Absolute.FilePath" type="std::wstring" value="E:/Wondershare Src/Rec_20170731 22.36.41.mp4"/>
+<Property key="Level" type="int" value="0"/>
+<Property key="Motion.Enable" type="int" value="0"/>
+<Property key="Motion.RangeTime" type="NLERange" value="Start:0, End:3500"/>
+<Property key="Motion.URI" type="std::wstring" value=""/>
+<Property key="REFCLSID" type="GUID" value="{8AFC8D9F-9E32-087D-64C9-5271630D6E83}"/>
+<Property key="REFIID" type="GUID" value="{29FDB4EE-DE39-151E-ED38-06C8CFB45CDA}"/>
+<Property key="Render.AnchorPoint" type="NLEPointF" value="x:0.000000, y:0.000000"/>
+<Property key="Render.Backplay.BOOL" type="int" value="0"/>
+<Property key="Render.BitsPerSample" type="int" value="16"/>
+<Property key="Render.Channels" type="int" value="2"/>
+<Property key="Render.Concurrency.Prepare" type="int" value="1"/>
+<Property key="Render.EnableAudio" type="int" value="1"/>
+<Property key="Render.EnableVideo" type="int" value="1"/>
+<Property key="Render.Framerate" type="NLERational" value="[937518, 15625]: 60.0011520 "/>
+<Property key="Render.Mode" type="int" value="0"/>
+<Property key="Render.Position" type="int" value="0"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:0, End:36551"/>
+<Property key="Render.Region" type="NLERectF" value="left:0.000000, top:0.000000, width:1.000000, height:1.000000"/>
+<Property key="Render.ResizeScaleF" type="NLESizeF" value="Width:1.000000, cy:1.000000"/>
+<Property key="Render.Rotation.InDegree" type="double" value="0.000000"/>
+<Property key="Render.SampleRate" type="int" value="44100"/>
+<Property key="Render.Scale" type="NLERational" value="[1, 1]: 1.0000000 "/>
+<Property key="Render.Size" type="NLESize" value="Width:1366, cy:768"/>
+<Property key="Render.TotalFrameCount" type="int" value="36552"/>
+<Property key="Render.VideoStabilizer.BOOL" type="int" value="0"/>
+<Property key="Source.BitsPerSample" type="int" value="16"/>
+<Property key="Source.Channles" type="int" value="2"/>
+<Property key="Source.Framerate" type="NLERational" value="[937518, 15625]: 60.0011520 "/>
+<Property key="Source.HasAudioStream" type="int" value="0"/>
+<Property key="Source.HasVideoStream" type="int" value="1"/>
+<Property key="Source.RangeFrameNumber" type="NLERange" value="Start:0, End:36551"/>
+<Property key="Source.Region" type="NLERectF" value="left:0.000000, top:0.000000, width:1.000000, height:1.000000"/>
+<Property key="Source.SampleRate" type="int" value="44100"/>
+<Property key="Source.Size" type="NLESize" value="Width:1366, cy:768"/>
+<Property key="Source.TotalFrameCount" type="int" value="36552"/>
+<Property key="SourceRender_CurrentAudioStreamIndex" type="int" value="-1"/>
+<Property key="SourceRender_CurrentVideoStreamIndex" type="int" value="0"/>
+<Property key="Source_FileType" type="int" value="1"/>
+<Property key="Source_ScreenRecordingHasMouseStream" type="int" value="0"/>
+<Property key="Source_ScreenRecordingStreamType" type="int" value="1"/>
+<Property key="Transition.Enable" type="int" value="0"/>
+<Property key="Transition.RangeTime" type="NLERange" value="Start:0, End:3000"/>
+<Property key="kAudio_Bitrate" type="int" value="127984"/>
+<Property key="kAudio_Description" type="std::wstring" value="AAC (MPEG-2/MPEG-4 Audio)"/>
+<Property key="kAudio_FourCC" type="unsigned int" value="541278529"/>
+<Property key="kAudio_ID" type="unsigned int" value="1"/>
+<Property key="kAudio_Name" type="std::wstring" value="aac"/>
+<Property key="kAudio_State" type="int" value="0"/>
+<Property key="kCodec_FourCC" type="int" value="877677891"/>
+<Property key="kMouse_Opacity" type="double" value="1.000000"/>
+<Property key="kMouse_Scale" type="double" value="1.000000"/>
+<Property key="kVideo_Bitrate" type="int" value="7541184"/>
+<Property key="kVideo_Description" type="std::wstring" value="cuda H.264"/>
+<Property key="kVideo_FourCC" type="unsigned int" value="875967048"/>
+<Property key="kVideo_ID" type="unsigned int" value="0"/>
+<Property key="kVideo_Name" type="std::wstring" value="cuda"/>
+<Property key="kVideo_State" type="int" value="0"/>
+</Properties>
+</Property>
+<Property key="Source_FileType" type="CNLEValue" value="t:int, v:1"/>
+<Property key="Source_ScreenRecordingHasMouseStream" type="int" value="0"/>
+<Property key="Source_ScreenRecordingStreamType" type="int" value="1"/>
+<Property key="Transition.Enable" type="int" value="0"/>
+<Property key="Transition.RangeTime" type="NLERange" value="Start:0, End:3000"/>
+<Property key="kAudio_Bitrate" type="CNLEValue" value="t:int, v:127984"/>
+<Property key="kAudio_FourCC" type="CNLEValue" value="t:unsigned int, v:541278529"/>
+<Property key="kCodec_FourCC" type="CNLEValue" value="t:int, v:877677891"/>
+<Property key="kVideo_Bitrate" type="CNLEValue" value="t:int, v:7541184"/>
+<Property key="kVideo_FourCC" type="CNLEValue" value="t:unsigned int, v:875967048"/>
+</Properties>
+</TimeLine>
+<TimeLine>
+<Properties Count="50">
+<Property key="Absolute.FilePath" type="std::wstring" value="E:/YouTube/Thank you for watching.png"/>
+<Property key="Key_AncestralGuid" type="std::wstring" value="{b83e0ce9-ea98-42f9-abf1-70afb912b37a}"/>
+<Property key="Key_DisplayName" type="std::wstring" value="Thank you for watching"/>
+<Property key="Key_TimelineType" type="int" value="5"/>
+<Property key="Level" type="int" value="0"/>
+<Property key="Motion.Enable" type="int" value="0"/>
+<Property key="Motion.RangeTime" type="NLERange" value="Start:0, End:3500"/>
+<Property key="Motion.URI" type="std::wstring" value=""/>
+<Property key="Name" type="std::wstring" value="MediaTimeline"/>
+<Property key="REFCLSID" type="GUID" value="{9B42D098-1E44-6B5F-C3DA-23CB57969A0B}"/>
+<Property key="REFIID" type="GUID" value="{29FDB4EE-DE39-151E-ED38-06C8CFB45CDA}"/>
+<Property key="Render.AnchorPoint" type="NLEPointF" value="x:0.500000, y:0.500000"/>
+<Property key="Render.Backplay.BOOL" type="int" value="0"/>
+<Property key="Render.BitsPerSample" type="int" value="16"/>
+<Property key="Render.Channels" type="int" value="2"/>
+<Property key="Render.Concurrency.Prepare" type="int" value="1"/>
+<Property key="Render.EnableAudio" type="int" value="0"/>
+<Property key="Render.EnableVideo" type="int" value="1"/>
+<Property key="Render.Framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="Render.Mode" type="int" value="2"/>
+<Property key="Render.Position" type="int" value="15355"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:0, End:128"/>
+<Property key="Render.RawEnabled" type="int" value="0"/>
+<Property key="Render.Region" type="NLERectF" value="left:0.103293, top:0.009653, width:0.778184, height:0.980759"/>
+<Property key="Render.ResizeScaleF" type="NLESizeF" value="Width:0.778184, cy:0.980759"/>
+<Property key="Render.Rotation.InDegree" type="double" value="0.000000"/>
+<Property key="Render.SampleRate" type="int" value="44100"/>
+<Property key="Render.Scale" type="NLERational" value="[1, 1]: 1.0000000 "/>
+<Property key="Render.Size" type="NLESize" value="Width:524, cy:295"/>
+<Property key="Render.TotalFrameCount" type="int" value="250000"/>
+<Property key="Render.VideoStabilizer.BOOL" type="int" value="0"/>
+<Property key="Source.BitsPerSample" type="CNLEValue" value="t:int, v:16"/>
+<Property key="Source.Channles" type="CNLEValue" value="t:int, v:2"/>
+<Property key="Source.Framerate" type="CNLEValue" value="t:NLERational, v:[25, 1]: 25.0000000 "/>
+<Property key="Source.HasAudioStream" type="CNLEValue" value="t:int, v:0"/>
+<Property key="Source.HasVideoStream" type="CNLEValue" value="t:int, v:1"/>
+<Property key="Source.RangeFrameNumber" type="NLERange" value="Start:0, End:128"/>
+<Property key="Source.Region" type="NLERectF" value="left:0.000000, top:0.000000, width:1.000000, height:1.000000"/>
+<Property key="Source.SampleRate" type="CNLEValue" value="t:int, v:44100"/>
+<Property key="Source.Size" type="CNLEValue" value="t:NLESize, v:Width:560, cy:397"/>
+<Property key="Source.TotalFrameCount" type="CNLEValue" value="t:int, v:250000"/>
+<Property key="SourceTimeline_Properties" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:000001599E69D7D0">
+<Properties Count="54">
+<Property key="Absolute.FilePath" type="std::wstring" value="E:/YouTube/Thank you for watching.png"/>
+<Property key="Level" type="int" value="0"/>
+<Property key="Motion.Enable" type="int" value="0"/>
+<Property key="Motion.RangeTime" type="NLERange" value="Start:0, End:3500"/>
+<Property key="Motion.URI" type="std::wstring" value=""/>
+<Property key="REFCLSID" type="GUID" value="{8AFC8D9F-9E32-087D-64C9-5271630D6E83}"/>
+<Property key="REFIID" type="GUID" value="{29FDB4EE-DE39-151E-ED38-06C8CFB45CDA}"/>
+<Property key="Render.AnchorPoint" type="NLEPointF" value="x:0.000000, y:0.000000"/>
+<Property key="Render.Backplay.BOOL" type="int" value="0"/>
+<Property key="Render.BitsPerSample" type="int" value="16"/>
+<Property key="Render.Channels" type="int" value="2"/>
+<Property key="Render.Concurrency.Prepare" type="int" value="1"/>
+<Property key="Render.EnableAudio" type="int" value="1"/>
+<Property key="Render.EnableVideo" type="int" value="1"/>
+<Property key="Render.Framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="Render.Mode" type="int" value="0"/>
+<Property key="Render.Position" type="int" value="0"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:0, End:249999"/>
+<Property key="Render.Region" type="NLERectF" value="left:0.000000, top:0.000000, width:1.000000, height:1.000000"/>
+<Property key="Render.ResizeScaleF" type="NLESizeF" value="Width:1.000000, cy:1.000000"/>
+<Property key="Render.Rotation.InDegree" type="double" value="0.000000"/>
+<Property key="Render.SampleRate" type="int" value="44100"/>
+<Property key="Render.Scale" type="NLERational" value="[1, 1]: 1.0000000 "/>
+<Property key="Render.Size" type="NLESize" value="Width:560, cy:397"/>
+<Property key="Render.TotalFrameCount" type="int" value="250000"/>
+<Property key="Render.VideoStabilizer.BOOL" type="int" value="0"/>
+<Property key="Source.BitsPerSample" type="int" value="16"/>
+<Property key="Source.Channles" type="int" value="2"/>
+<Property key="Source.Framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="Source.HasAudioStream" type="int" value="0"/>
+<Property key="Source.HasVideoStream" type="int" value="1"/>
+<Property key="Source.RangeFrameNumber" type="NLERange" value="Start:0, End:249999"/>
+<Property key="Source.Region" type="NLERectF" value="left:0.000000, top:0.000000, width:1.000000, height:1.000000"/>
+<Property key="Source.SampleRate" type="int" value="44100"/>
+<Property key="Source.Size" type="NLESize" value="Width:560, cy:397"/>
+<Property key="Source.TotalFrameCount" type="int" value="250000"/>
+<Property key="Source_FileType" type="int" value="3"/>
+<Property key="Transition.Enable" type="int" value="0"/>
+<Property key="Transition.RangeTime" type="NLERange" value="Start:0, End:3000"/>
+<Property key="kAudio_Bitrate" type="int" value="0"/>
+<Property key="kAudio_Description" type="std::wstring" value="unknown codec, no usable"/>
+<Property key="kAudio_FourCC" type="int" value="0"/>
+<Property key="kAudio_ID" type="int" value="0"/>
+<Property key="kAudio_Name" type="std::wstring" value="unknown codec"/>
+<Property key="kAudio_State" type="int" value="0"/>
+<Property key="kCodec_FourCC" type="int" value="1229799751"/>
+<Property key="kMouse_Opacity" type="double" value="1.000000"/>
+<Property key="kMouse_Scale" type="double" value="1.000000"/>
+<Property key="kVideo_Bitrate" type="int" value="0"/>
+<Property key="kVideo_Description" type="std::wstring" value="description"/>
+<Property key="kVideo_FourCC" type="int" value="0"/>
+<Property key="kVideo_ID" type="int" value="1"/>
+<Property key="kVideo_Name" type="std::wstring" value="image"/>
+<Property key="kVideo_State" type="int" value="0"/>
+</Properties>
+</Property>
+<Property key="Source_FileType" type="CNLEValue" value="t:int, v:3"/>
+<Property key="Transition.Enable" type="int" value="0"/>
+<Property key="Transition.RangeTime" type="NLERange" value="Start:0, End:3000"/>
+<Property key="kAudio_Bitrate" type="CNLEValue" value="t:int, v:0"/>
+<Property key="kAudio_FourCC" type="CNLEValue" value="t:int, v:0"/>
+<Property key="kCodec_FourCC" type="CNLEValue" value="t:int, v:1229799751"/>
+<Property key="kVideo_Bitrate" type="CNLEValue" value="t:int, v:0"/>
+<Property key="kVideo_FourCC" type="CNLEValue" value="t:int, v:0"/>
+</Properties>
+</TimeLine>
+<TimeLine>
+<Properties Count="54">
+<Property key="Absolute.FilePath" type="std::wstring" value="E:/Wondershare Src/Rec_20170731 22.36.41.mp4"/>
+<Property key="Key_AncestralGuid" type="std::wstring" value="{2f4ebe52-7b9e-446d-b848-4912ed5ccc99}"/>
+<Property key="Key_DisplayName" type="std::wstring" value="Rec_20170731 22.36.41"/>
+<Property key="Key_RecordAncestralGuid" type="std::wstring" value="{2460d4bf-dac8-45a7-bca4-06eed2fcf6cc}"/>
+<Property key="Key_TimelineType" type="int" value="3"/>
+<Property key="Level" type="int" value="1"/>
+<Property key="Motion.Enable" type="int" value="0"/>
+<Property key="Motion.RangeTime" type="NLERange" value="Start:0, End:3500"/>
+<Property key="Motion.URI" type="std::wstring" value=""/>
+<Property key="PProcess.Mix2Mono" type="int" value="0"/>
+<Property key="REFCLSID" type="GUID" value="{9B42D098-1E44-6B5F-C3DA-23CB57969A0B}"/>
+<Property key="REFIID" type="GUID" value="{29FDB4EE-DE39-151E-ED38-06C8CFB45CDA}"/>
+<Property key="Render.AnchorPoint" type="NLEPointF" value="x:0.000000, y:0.000000"/>
+<Property key="Render.Backplay.BOOL" type="int" value="0"/>
+<Property key="Render.BitsPerSample" type="int" value="16"/>
+<Property key="Render.Channels" type="int" value="2"/>
+<Property key="Render.Concurrency.Prepare" type="int" value="1"/>
+<Property key="Render.EnableAudio" type="int" value="1"/>
+<Property key="Render.EnableVideo" type="int" value="0"/>
+<Property key="Render.Framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="Render.Mode" type="int" value="0"/>
+<Property key="Render.Position" type="int" value="125"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:0, End:15229"/>
+<Property key="Render.Region" type="NLERectF" value="left:0.000000, top:0.000000, width:1.000000, height:1.000000"/>
+<Property key="Render.ResizeScaleF" type="NLESizeF" value="Width:1.000000, cy:1.000000"/>
+<Property key="Render.Rotation.InDegree" type="double" value="0.000000"/>
+<Property key="Render.SampleRate" type="int" value="44100"/>
+<Property key="Render.Scale" type="NLERational" value="[1, 1]: 1.0000000 "/>
+<Property key="Render.Size" type="NLESize" value="Width:524, cy:295"/>
+<Property key="Render.TotalFrameCount" type="int" value="15230"/>
+<Property key="Render.VideoStabilizer.BOOL" type="int" value="0"/>
+<Property key="Source.BitsPerSample" type="CNLEValue" value="t:int, v:16"/>
+<Property key="Source.Channles" type="CNLEValue" value="t:int, v:2"/>
+<Property key="Source.Framerate" type="CNLEValue" value="t:NLERational, v:[937518, 15625]: 60.0011520 "/>
+<Property key="Source.HasAudioStream" type="CNLEValue" value="t:int, v:1"/>
+<Property key="Source.HasVideoStream" type="CNLEValue" value="t:int, v:0"/>
+<Property key="Source.RangeFrameNumber" type="CNLEValue" value="t:NLERange, v:Start:0, End:36551"/>
+<Property key="Source.Region" type="NLERectF" value="left:0.000000, top:0.000000, width:1.000000, height:1.000000"/>
+<Property key="Source.SampleRate" type="CNLEValue" value="t:int, v:44100"/>
+<Property key="Source.Size" type="CNLEValue" value="t:NLESize, v:Width:1366, cy:768"/>
+<Property key="Source.TotalFrameCount" type="CNLEValue" value="t:int, v:36552"/>
+<Property key="SourceRender_CurrentAudioStreamIndex" type="int" value="2"/>
+<Property key="SourceRender_CurrentVideoStreamIndex" type="int" value="-1"/>
+<Property key="SourceTimeline_Properties" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:000001599E69D610">
+<Properties Count="58">
+<Property key="Absolute.FilePath" type="std::wstring" value="E:/Wondershare Src/Rec_20170731 22.36.41.mp4"/>
+<Property key="Level" type="int" value="0"/>
+<Property key="Motion.Enable" type="int" value="0"/>
+<Property key="Motion.RangeTime" type="NLERange" value="Start:0, End:3500"/>
+<Property key="Motion.URI" type="std::wstring" value=""/>
+<Property key="REFCLSID" type="GUID" value="{8AFC8D9F-9E32-087D-64C9-5271630D6E83}"/>
+<Property key="REFIID" type="GUID" value="{29FDB4EE-DE39-151E-ED38-06C8CFB45CDA}"/>
+<Property key="Render.AnchorPoint" type="NLEPointF" value="x:0.000000, y:0.000000"/>
+<Property key="Render.Backplay.BOOL" type="int" value="0"/>
+<Property key="Render.BitsPerSample" type="int" value="16"/>
+<Property key="Render.Channels" type="int" value="2"/>
+<Property key="Render.Concurrency.Prepare" type="int" value="1"/>
+<Property key="Render.EnableAudio" type="int" value="1"/>
+<Property key="Render.EnableVideo" type="int" value="1"/>
+<Property key="Render.Framerate" type="NLERational" value="[937518, 15625]: 60.0011520 "/>
+<Property key="Render.Mode" type="int" value="0"/>
+<Property key="Render.Position" type="int" value="0"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:0, End:36551"/>
+<Property key="Render.Region" type="NLERectF" value="left:0.000000, top:0.000000, width:1.000000, height:1.000000"/>
+<Property key="Render.ResizeScaleF" type="NLESizeF" value="Width:1.000000, cy:1.000000"/>
+<Property key="Render.Rotation.InDegree" type="double" value="0.000000"/>
+<Property key="Render.SampleRate" type="int" value="44100"/>
+<Property key="Render.Scale" type="NLERational" value="[1, 1]: 1.0000000 "/>
+<Property key="Render.Size" type="NLESize" value="Width:1366, cy:768"/>
+<Property key="Render.TotalFrameCount" type="int" value="36552"/>
+<Property key="Render.VideoStabilizer.BOOL" type="int" value="0"/>
+<Property key="Source.BitsPerSample" type="int" value="16"/>
+<Property key="Source.Channles" type="int" value="2"/>
+<Property key="Source.Framerate" type="NLERational" value="[937518, 15625]: 60.0011520 "/>
+<Property key="Source.HasAudioStream" type="int" value="1"/>
+<Property key="Source.HasVideoStream" type="int" value="0"/>
+<Property key="Source.RangeFrameNumber" type="NLERange" value="Start:0, End:36551"/>
+<Property key="Source.Region" type="NLERectF" value="left:0.000000, top:0.000000, width:1.000000, height:1.000000"/>
+<Property key="Source.SampleRate" type="int" value="44100"/>
+<Property key="Source.Size" type="NLESize" value="Width:1366, cy:768"/>
+<Property key="Source.TotalFrameCount" type="int" value="36552"/>
+<Property key="SourceRender_CurrentAudioStreamIndex" type="int" value="2"/>
+<Property key="SourceRender_CurrentVideoStreamIndex" type="int" value="-1"/>
+<Property key="Source_FileType" type="int" value="1"/>
+<Property key="Source_ScreenRecordingHasMouseStream" type="int" value="0"/>
+<Property key="Source_ScreenRecordingStreamType" type="int" value="4"/>
+<Property key="Transition.Enable" type="int" value="0"/>
+<Property key="Transition.RangeTime" type="NLERange" value="Start:0, End:3000"/>
+<Property key="kAudio_Bitrate" type="int" value="127984"/>
+<Property key="kAudio_Description" type="std::wstring" value="AAC (MPEG-2/MPEG-4 Audio)"/>
+<Property key="kAudio_FourCC" type="unsigned int" value="541278529"/>
+<Property key="kAudio_ID" type="unsigned int" value="1"/>
+<Property key="kAudio_Name" type="std::wstring" value="aac"/>
+<Property key="kAudio_State" type="int" value="0"/>
+<Property key="kCodec_FourCC" type="int" value="877677891"/>
+<Property key="kMouse_Opacity" type="double" value="1.000000"/>
+<Property key="kMouse_Scale" type="double" value="1.000000"/>
+<Property key="kVideo_Bitrate" type="int" value="7541184"/>
+<Property key="kVideo_Description" type="std::wstring" value="cuda H.264"/>
+<Property key="kVideo_FourCC" type="unsigned int" value="875967048"/>
+<Property key="kVideo_ID" type="unsigned int" value="0"/>
+<Property key="kVideo_Name" type="std::wstring" value="cuda"/>
+<Property key="kVideo_State" type="int" value="0"/>
+</Properties>
+</Property>
+<Property key="Source_FileType" type="CNLEValue" value="t:int, v:1"/>
+<Property key="Source_ScreenRecordingHasMouseStream" type="int" value="0"/>
+<Property key="Source_ScreenRecordingStreamType" type="int" value="4"/>
+<Property key="Transition.Enable" type="int" value="0"/>
+<Property key="Transition.RangeTime" type="NLERange" value="Start:0, End:3000"/>
+<Property key="kAudio_Bitrate" type="CNLEValue" value="t:int, v:127984"/>
+<Property key="kAudio_FourCC" type="CNLEValue" value="t:unsigned int, v:541278529"/>
+<Property key="kCodec_FourCC" type="CNLEValue" value="t:int, v:877677891"/>
+<Property key="kVideo_Bitrate" type="CNLEValue" value="t:int, v:7541184"/>
+<Property key="kVideo_FourCC" type="CNLEValue" value="t:unsigned int, v:875967048"/>
+</Properties>
+</TimeLine>
+</TimeLine>
+</TimelineMessage>
+
+</ProjectMessage>
