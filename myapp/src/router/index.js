@@ -5,6 +5,7 @@ import Admin from '@/components/Admin'
 import User from '@/components/User'
 import Filters from '@/components/Filters'
 import Computed from '@/components/Computed'
+import CRender from '@/components/CRender'
 import Details from '@/components/Admin/User/Details'
 Vue.use(Router)
 
@@ -24,6 +25,11 @@ export default new Router({
       path: '/Computed',
       name: 'Computed',
       component: Computed
+    },
+    {
+      path: '/CRender',
+      name: 'CRender',
+      component: CRender
     },
     {
       path: '/Admin',
