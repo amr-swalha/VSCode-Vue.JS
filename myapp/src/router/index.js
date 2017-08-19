@@ -6,7 +6,9 @@ import User from '@/components/User'
 import Filters from '@/components/Filters'
 import Computed from '@/components/Computed'
 import CRender from '@/components/CRender'
+import Mixins from '@/components/Mixins'
 import Details from '@/components/Admin/User/Details'
+import Trans from '@/components/Trans'
 Vue.use(Router)
 
 export default new Router({
@@ -30,6 +32,16 @@ export default new Router({
       path: '/CRender',
       name: 'CRender',
       component: CRender
+    },
+    {
+      path: '/Mixins',
+      name: 'Mixins',
+      component: Mixins
+    },
+    {
+      path: '/Trans',
+      name: 'Trans',
+      component: Trans
     },
     {
       path: '/Admin',
